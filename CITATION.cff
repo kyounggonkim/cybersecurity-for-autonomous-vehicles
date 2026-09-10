@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository or its research artefacts, please cite the associated publication."
+
+title: "Cybersecurity for Autonomous Vehicles: Review of Attacks and Defense"
+type: article
+
+authors:
+  - family-names: "Kim"
+    given-names: "Kyounggon"
+  - family-names: "Kim"
+    given-names: "Jun Seok"
+  - family-names: "Jeong"
+    given-names: "Seonghoon"
+  - family-names: "Park"
+    given-names: "Jo-Hee"
+  - family-names: "Kim"
+    given-names: "Huy Kang"
+
+journal: "Computers & Security"
+volume: "103"
+year: 2021
+doi: "10.1016/j.cose.2020.102150"
+url: "https://doi.org/10.1016/j.cose.2020.102150"
